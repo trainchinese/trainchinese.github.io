@@ -33129,7 +33129,7 @@ s=A.Yv("TrainChinese",n?o:m.Dt(48),o,o)
 r=A.Yv("\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0445 \u0438\u0435\u0440\u043e\u0433\u043b\u0438\u0444\u043e\u0432",m,o,o)
 q=A.Yv("\u041f\u043e\u043a\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f Android!",n?o:m.kb(B.BP),o,o)
 p=A.aiF(o,o,new A.mO("/screenshot.jpeg",1,o))
-return new A.qC(A.a8s(new A.fI(B.em,new A.Co(new A.xx(B.aQ,B.q9,B.qa,B.kE,o,B.jp,o,A.a([s,r,q,new A.fI(B.em,new A.q3(p,1000,o),o),new A.yD(new A.Sg(),o,o,o,o,B.K,o,!1,o,new A.fI(B.em,A.Yv("\u0421\u043a\u0430\u0447\u0430\u0442\u044c",n?o:m.Dt(28),o,o),o),o)],t.nA),o),o),o),B.wh,o,o,o),"Flutter Demo",o)}}
+return new A.qC(A.a8s(new A.fI(B.em,new A.Co(new A.xx(B.aQ,B.q9,B.qa,B.kE,o,B.jp,o,A.a([s,r,q,new A.fI(B.em,new A.q3(p,1000,o),o),new A.yD(new A.Sg(),o,o,o,o,B.K,o,!1,o,new A.fI(B.em,A.Yv("\u0421\u043a\u0430\u0447\u0430\u0442\u044c",n?o:m.Dt(28),o,o),o),o)],t.nA),o),o),o),B.wh,o,o,o),"TrainChinese - \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e",o)}}
 A.Sg.prototype={
 $0(){var s=0,r=A.a0(t.H)
 var $async$$0=A.a1(function(a,b){if(a===1)return A.Y(b,r)
